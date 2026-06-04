@@ -1,0 +1,6 @@
+CTCF_site	dctcf	pctcf	dsyn	psyn	length_of_ctcf	length_of_gene
+human.bpnet.10001.hg38	0	0	1	0	25	3832
+human.bpnet.10003.hg38	0	0	13	0	25	298919
+human.bpnet.10005.hg38	0	0	13	0	25	298919
+human.bpnet.10006.hg38	1	0	0	0	25	31394
+human.bpnet.10010.hg38	0	0	1	0	25	13274
